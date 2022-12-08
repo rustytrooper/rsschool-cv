@@ -15,3 +15,8 @@ About me:
 Hi i'm Diana and i'm really excited about learning something new, and i really found out that i want to develop my skills in certain direction, and my chois went up to front end development. Let's get acquainted!
 
 ---
+
+Skills:
+-HTML
+-CSS
+-Figma, Photoshop
