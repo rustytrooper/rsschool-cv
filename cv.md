@@ -39,3 +39,17 @@ Hi i'm Diana and i'm really excited about learning something new, and i really f
         alert(inb);
       }
     </script>
+
+    ___
+
+## Education:
+
+    ___
+
+    This year i had finished Faculcy of Economics, BSU
+
+    ___
+
+## English level
+
+- level of my English is B1
