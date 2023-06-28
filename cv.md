@@ -47,4 +47,12 @@ let initStr = "12345678910";
 
 ---
 
-#### [https://rolling-scopes-school.github.io/rustytrooper-JSFEPRESCHOOL2022Q4/plants/](plants)
+#### [plants ](https://rolling-scopes-school.github.io/rustytrooper-JSFEPRESCHOOL2022Q4/plants/)
+
+---
+
+#### Achieved courses: Rsschool stage 0, self study
+
+---
+
+#### Level of my english is B1
