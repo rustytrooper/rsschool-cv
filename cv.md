@@ -51,7 +51,7 @@ let initStr = "12345678910";
 
 ---
 
-#### Achieved courses: Rsschool stage 0, self study
+#### Achieved courses: Rsschool stage 0, self study front end, BSU Faculty of Economics
 
 ---
 
