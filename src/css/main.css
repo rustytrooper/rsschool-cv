@@ -126,6 +126,10 @@ body {
   height: 50px;
 }
 
+.ulskill {
+  height: 100%;
+}
+
 .icon {
   width: 70%;
   height: 25%;
@@ -134,16 +138,16 @@ body {
   align-items: center;
 }
 
-.iconjs {
-  margin-left: 20px;
+.iconcss {
+  margin-left: -23px;
 }
 
 .iconhtml {
-  margin-left: 6px;
+  margin-left: -13px;
 }
 
 .icongit {
-  margin-left: 10px;
+  margin-left: -13px;
 }
 
 .light-inner-right {
