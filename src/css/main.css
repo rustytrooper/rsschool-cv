@@ -72,7 +72,6 @@ body {
 .light-inner-left {
   width: 40%;
   height: 75%;
-  /* background-color: #fff; */
   align-self: flex-end;
   justify-content: start;
   box-sizing: content-box;
@@ -140,7 +139,7 @@ body {
 }
 
 .p11 {
-  margin: 30px 0px 0px 15px;
+  margin: -30px 0px 0px 15px;
 }
 
 .p12 {
@@ -212,4 +211,8 @@ body {
   align-self: center;
   font-size: 30px;
   color: black;
+}
+
+.pfoot {
+  font-family: 'Ysabeau Infant';
 }
