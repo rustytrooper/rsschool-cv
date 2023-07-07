@@ -75,7 +75,7 @@ body {
   height: 300px;
   margin: 30px;
   border-radius: 50%;
-  background-image: url("../images/7.jpg");
+  /* background-image: url("../images/7.jpg"); */
   background-color: aliceblue;
   float: left;
 }
@@ -106,13 +106,17 @@ body {
 }
 
 .lilfi {
-  box-sizing: initial;
+  /* box-sizing: initial; */
   width: 100%;
   height: 330px;
 }
 
 .lilfi3 {
   display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 180px;
+  margin-top: 80px;
 }
 
 .icons {
@@ -187,6 +191,13 @@ body {
   flex-direction: column;
   display: flex;
 }
+
+.light-inner-right-small-4 {
+  height: 300px;
+  display: flex;
+  
+}
+
 .code {
   height: 80%;
   width: 50%;
@@ -205,6 +216,16 @@ body {
 .a {
   text-decoration: none;
   font-family: "Ysabeau Infant";
+}
+
+.ulcont {
+  padding-left: 0;
+  margin: 10px 0px 0px 15px;
+}
+
+.a.anumber {
+  margin-top: 0px;
+  font-size: 24px;
 }
 
 .footer {
