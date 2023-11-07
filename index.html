@@ -19,8 +19,7 @@
         </ul>
       </nav>
     </header>
-    <main class="container">
-      <a name="main"></a>
+    <main id="main" class="container">
       <div class="resume">
         <div>
           <div class="pseudo1"></div>
@@ -51,22 +50,22 @@
                   <pre class="pre">
                     <code class="code">
                     
-  let initStr = "12345678910"; 
+  let initStr = "12345678910";
 
   function getProbebly(str) {
-  let arrFromStr = Array.from(str); 
-  let reverse=arrFromStr.reverse(); 
-  console.log(reverse); 
-  let subarrSize= 3; 
-  let matrix = []; 
+  let arrFromStr = Array.from(str);
+  let reverse=arrFromStr.reverse();
+  console.log(reverse);
+  let subarrSize= 3;
+  let matrix = [];
   for (let i = 0; i &lt; = reverse.length;i += subarrSize) {
-  matrix.push(reverse.slice(i, i +subarrSize)); 
-  } 
-  let output= matrix.map((el) =&gt;el.join("")).join(" "); 
+  matrix.push(reverse.slice(i, i +subarrSize));
+  }
+  let output= matrix.map((el) =&gt;el.join("")).join(" ");
   let reversedAnswer =output.split("").reverse().join("");
-  console.log(reversedAnswer); 
-  } 
-  getProbebly(initStr);  
+  console.log(reversedAnswer);
+  }
+  getProbebly(initStr);
                   </code>
                 </pre>
                 </div>
@@ -114,8 +113,7 @@
         </div>
       </div>
     </main>
-    <footer class="footer" >
-      <a name="footer"></a>
+    <footer id='footer' class="footer" >
       <div class="foo">
         <a class="a1" href="https://github.com/rolling-scopes-school/tasks/tree/master/stage0#%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1">
           <img class="lilicon1" src="./src/images/logors.png" alt="rs">
