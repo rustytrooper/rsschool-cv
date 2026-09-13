@@ -47,3 +47,17 @@ const TodoList = () => {
   );
 };
 ```
+
+---
+
+## Work expirience
+
+Courses at RS school (pre-school 2022, js/fe 2023, react 2025, js/fe 2025, node js 2025, react 2026, currently- fullstack 2026), trainersheep at Andersen, 2025
+
+Projects:
+💻 (https://github.com/rustytrooper/react2026Q2) - repo for react 2026 course with all projects
+💻 (https://github.com/rustytrooper/NodeFileManagerApplication) - repo for node file manager app
+
+---
+
+## Language level - b2
