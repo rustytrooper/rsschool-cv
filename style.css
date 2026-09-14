@@ -176,10 +176,7 @@ body {
 }
 
 .rs-logo {
-  font-weight: bold;
-  background-color: var(--teal-700);
-  padding: 6px 12px;
-  border-radius: 4px;
-  color: #ffffff;
-  display: inline-block;
+    height: 40px;
+    width: auto;
+    display: block;
 }
